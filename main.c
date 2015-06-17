@@ -9,6 +9,6 @@ int main(int argc, char **argv) {
     
     create_vlan(20,"firstcreatvlan");
     
-    printf("ok\n");
+    printf("it is ok\n");
     return 0;
 }
